@@ -15,6 +15,7 @@ See what kind of love the Father has given to us, that we should be called child
   - https://www.w3schools.com/python/
   - https://www.tutorialspoint.com/python/index.htm
   - https://docs.python.org/3/tutorial/
+  - Jupyter Notebook: https://jupyter.org/
   - Libraries: Numpy, Pandas
   
   - Machine learning crash course: https://developers.google.com/machine-learning/crash-course/
