@@ -5,15 +5,24 @@ See what kind of love the Father has given to us, that we should be called child
 ## 1. https://github.com -- manage your code, connect to other programmers
   - Create an account, share your account id to be added into the organization. 
   - README.md: https://help.github.com/en/articles/basic-writing-and-formatting-syntax
+  - Organization: https://github.com/UnworthyServant/programming
   
 ## 2. HTML5 -- Webpage Programming language 网页编程语言
   - https://www.w3schools.com/html/
+  - css: https://www.w3schools.com/css/default.asp
   
 ## 3. Python3 -- For machine learning (AI), data science
   - https://www.w3schools.com/python/
   - https://www.tutorialspoint.com/python/index.htm
   - https://docs.python.org/3/tutorial/
+  - Libraries: Numpy, Pandas
   
-## 4. JavaScript -- Interactive web programming and more
-  - 
+  - Machine learning crash course: https://developers.google.com/machine-learning/crash-course/
+  - Tensorflow: https://www.tensorflow.org/tutorials
   
+## 4. JavaScript -- Interactive web programming, mobile and more
+  - https://www.w3schools.com/js/
+  - Visualization (machine learn, data science): https://www.highcharts.com/docs/getting-started/your-first-chart
+  - React: https://reactjs.org/
+  - AngularJS: https://angular.io/
+  - Server side: https://nodejs.org/en/
